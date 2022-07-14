@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Eason0729/Eason0729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# eason
+
+Hi there 👋
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eason0729&theme=onedark&show_icons=true)](https://github.com/Eason0729)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MDResearch&repo=Mady)](https://github.com/MDResearch/Mady)
+
