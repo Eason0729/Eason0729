@@ -20,4 +20,4 @@ Hi there 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eason0729&theme=onedark&show_icons=true)](https://github.com/Eason0729)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MDResearch&repo=Mady)](https://github.com/MDResearch/Mady)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eason0729&repo=wake-up-on-lan)](https://github.com/Eason0729/wake-up-on-lan)
