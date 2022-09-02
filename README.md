@@ -21,3 +21,4 @@ Hi there 👋
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MDResearch&repo=Mady)](https://github.com/MDResearch/Mady)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eason0729&repo=wake-up-on-lan)](https://github.com/Eason0729/wake-up-on-lan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eason0729&repo=simple-reverse-proxy)](https://github.com/Eason0729/simple-reverse-proxy)
