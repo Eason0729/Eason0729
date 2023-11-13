@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/6c7a0447-9414-43ab-a937-9081f3e9fc7d.svg)](https://wakatime.com/@6c7a0447-9414-43ab-a937-9081f3e9fc7d)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eason0729&theme=onedark&show_icons=true)](https://github.com/Eason0729)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MDResearch&repo=Mady)](https://github.com/MDResearch/Mady)
