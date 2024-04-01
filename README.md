@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 
 # eason
 
-Hi there 👋
+Hi, my name is Chiu Chi Jui(Eason), I am currently pursuing bachelor degree at NCKU CSIE(freshman).
 
-[![wakatime](https://wakatime.com/badge/user/6c7a0447-9414-43ab-a937-9081f3e9fc7d.svg)](https://wakatime.com/@6c7a0447-9414-43ab-a937-9081f3e9fc7d)
+- 🌱 Since 2018, I have been learning web frontend/backend development in Javascript/Rust, beside web development, I have actively participating in challenging project, such as "automatic mathematical differentiation" or making "a coroutine runtime from scratch", those experience helps me understand how dependency we are using works and enable me to write low-level program.
+- ⚡ Since 2023, I have built my own blog(https://blog.easonabc.eu.org), which record some of my journal of running a linux desktop, don't miss it if you are an linux enthusiast, especially if you are using fedora(I can hardly find anyone using fedora).
+- 🔭 I am working on [mdoj](https://github.com/mdcpp/mdoj) and [sync-focus](https://github.com/gdsc-ncku/sync-focus)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eason0729&theme=onedark&show_icons=true)](https://github.com/Eason0729)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mdcpp&repo=mdoj)](https://github.com/mdcpp/mdoj)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MDResearch&repo=Mady)](https://github.com/MDResearch/Mady)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eason0729&repo=wake-up-on-lan)](https://github.com/Eason0729/wake-up-on-lan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Eason0729&repo=simple-reverse-proxy)](https://github.com/Eason0729/simple-reverse-proxy)
