@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 </div>
 
 - 🌱 Since 2018, I have been learning web frontend/backend development in Javascript/Rust, beside web development, I have actively participating in challenging project, such as "automatic mathematical differentiation" or making "a coroutine runtime from scratch", those experience helps me understand how dependency we are using works and enable me to write low-level program.
-- ⚡ Since 2023, I have built my own blog(https://blog.easonabc.eu.org), which record some of my journal of running a linux desktop, don't miss it if you are an linux enthusiast, especially if you are using fedora(I can hardly find anyone using fedora).
+- ⚡ Since 2023, I have built my own [blog](https://blog.easonabc.eu.org), which record some of my journal of running a linux desktop, don't miss it if you are an linux enthusiast, especially if you are using fedora(I can hardly find anyone using fedora).
 - 🔭 I am working on [mdoj](https://github.com/mdcpp/mdoj) and [sync-focus](https://github.com/gdsc-ncku/sync-focus)
 
 <div align="center">
