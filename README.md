@@ -22,10 +22,12 @@ Here are some ideas to get you started:
 - ⚡ Since 2023, I have built my own [blog](https://blog.easonabc.eu.org), which record some of my journal of running a linux desktop, don't miss it if you are an linux enthusiast, especially if you are using fedora(I can hardly find anyone using fedora).
 - 🔭 I am working on [mdoj](https://github.com/mdcpp/mdoj) and [sync-focus](https://github.com/gdsc-ncku/sync-focus)
 
-<div align="center">
-  <img src="https://wakatime.com/share/@6c7a0447-9414-43ab-a937-9081f3e9fc7d/c9f3dec1-34bf-41ef-a4c0-7a5abe261bda.png"/>
-</div>
+## 
 
+<div align="center">
+  <image src="https://wakatime.com/share/@6c7a0447-9414-43ab-a937-9081f3e9fc7d/ef41f5a3-d245-4fbf-ad18-6f9a49b2f760.svg" type="image/svg+xml" />
+</div>
+    
 <div align="center">
   <h1>Contacts</h1>
 </div>
