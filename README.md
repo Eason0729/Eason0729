@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## 
 
 <div align="center">
-  <image src="https://wakatime.com/share/@6c7a0447-9414-43ab-a937-9081f3e9fc7d/c6294fb4-3a82-44cb-b88a-3c491e82fa51.svg" type="image/svg+xml" />
+  <image src="https://wakatime.com/share/@eason/b36dd031-ed02-4d39-9053-c035f133fdd1.svg" type="image/svg+xml" />
 </div>
     
 <div align="center">
