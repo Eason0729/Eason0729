@@ -32,5 +32,5 @@ Here are some ideas to get you started:
   <h1>Contacts</h1>
 </div>
 
-- [LinkedIn](https://www.linkedin.com/in/%E9%98%BF%E7%9D%BF-%E9%82%B1-746b16296/)
+- [LinkedIn](https://www.linkedin.com/in/%E9%82%B1%E9%98%BF%E7%9D%BF/)
 - [Email](mailto:easonqq0000@gmail.com)
