@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Since 2023, I have built my own [blog](https://blog.easonabc.eu.org), which record some of my journal of running a linux desktop, don't miss it if you are an linux enthusiast, especially if you are using fedora(I can hardly find anyone using fedora).
 - 🔭 I am working on [mdoj](https://github.com/mdcpp/mdoj) and [sync-focus](https://github.com/gdsc-ncku/sync-focus)
 
+![Wakatime hour](https://wakatime.easonabc.eu.org/api/badge)
+
 ## 
 
 <div align="center">
