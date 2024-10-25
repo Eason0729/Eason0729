@@ -20,10 +20,11 @@ jobs:
           template: classic
           base: header
           plugin_languages: yes
-          plugin_languages_threshold: 1%
+          plugin_languages_sections: recently-used
+          plugin_languages_recent_load: 200
+          plugin_languages_recent_days: 30
           plugin_isocalendar: yes
           plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages-graphs, os
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, editors-graphs, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 365
-
