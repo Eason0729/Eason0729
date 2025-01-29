@@ -1,9 +1,9 @@
 ## Hi, I am Eason(G Ray)
 
 - ⚡ G Ray is the pronunciation of my chinese name
-- 🔭 I am working on [mdoj](https://github.com/mdcpp/mdoj) and [sync-focus](https://github.com/gdsc-ncku/sync-focus)
+- 🔭 I am working on [novel-translate](https://github.com/Eason0729/novel-tralslate)
 - 🌱 I am interesting in [DataFusion](https://datafusion.apache.org/)
-- 😄 Currently busy doing school work(27 Credits this semester)
+- 😄 I am trying to learn database internal. ([risinglight](https://github.com/risinglightdb/risinglight/tree/main) is a good resource BTW)
 
 ![Metrics](https://raw.githubusercontent.com/Eason0729/Eason0729/refs/heads/main/github-metrics.svg)
 
