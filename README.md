@@ -1,8 +1,14 @@
 ## Hi, I am Eason(G Ray)
 
-- ⚡ G Ray is the pronunciation of my chinese name
-- 🔭 I am working on [llumen](https://github.com/pinkfuwa/llumen)
-- 😄 I am trying to learn database internal.
+- ⚡ G Ray is the pronunciation of my Chinese name
+- I am trying to learn database internal.
+- I am interested in Math.
+
+## Projects
+
+- [Llumen](https://pinkfuwa.github.io/llumen/) - The AI Chat that just work.
+- [Howrs](https://github.com/Eason0729/howrs/) - Modern facial unlock for Linux.
+- [Copilot-DB](https://github.com/Eason0729/copilot-db) - An educational DB one-shot by `copilot-cli`.
 
 ![Metrics](https://raw.githubusercontent.com/Eason0729/Eason0729/refs/heads/main/github-metrics.svg)
 
