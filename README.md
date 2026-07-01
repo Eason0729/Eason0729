@@ -2,7 +2,7 @@
 
 - ⚡ G Ray is the pronunciation of my Chinese name
 - I am interested in Math.
-- I am interning [Synology](https://www.synology.com/) next week(June 6th).
+- I am interning at [Synology](https://www.synology.com/) next week(June 6th).
 
 ## Projects
 
