@@ -1,8 +1,8 @@
 ## Hi, I am Eason(G Ray)
 
 - ⚡ G Ray is the pronunciation of my Chinese name
-- I am interested in Math.
-- I am interning at [Synology](https://www.synology.com/) next week(July 6th 2026).
+- I am interested in [Math](https://hackmd.io/YzARNN_8S265E-gmnkTZOA?view).
+- I am interning at [Synology](https://www.synology.com/).
 
 ## Projects
 
